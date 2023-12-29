@@ -2,7 +2,10 @@
 
 Key highlights:
 
-Completed this project as a part of my BI with PowerBI internship with UNP. It displays data visualization showcasing impact of various on attribution based on HR data.To Clarify this,we designed a dashboard with variety of slicers,cards and charts.The key highlights includes 1 Created complex KPI's and dynamic, interactive power BI user interface 2 Enhanced proficiency in developing data models and applied DAX for transformations for reporting and analysis 3 Acquired ability to examine data and transform it into useful Power BI solutions 4 lead the group through information symphony 
+Completed this project as a part of my BI with PowerBI internship with UNP. It displays data visualization showcasing impact of various on attribution based on HR data.To Clarify this,we designed a dashboard with variety of slicers,cards and charts.The key highlights includes
+1. Created complex KPI's and dynamic, interactive power BI user interface
+2. Enhanced proficiency in developing data models and applied DAX for transformations for reporting and analysis
+3. Acquired ability to examine data and transform it into useful Power BI solutions 4 lead the group through information symphony 
 
 PBIXLINK:https://drive.google.com/file/d/1z9TxWf3mmnK07gPIR_V25QsJZyfz1cQ8/view?usp=sharing
 
