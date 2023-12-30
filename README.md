@@ -11,4 +11,4 @@ PBIXLINK:https://drive.google.com/file/d/1z9TxWf3mmnK07gPIR_V25QsJZyfz1cQ8/view?
 
 PPTLINK:https://docs.google.com/presentation/d/1YyTrpE1sWTyAjra6lBK6jXjM2mIbwLk9/edit?usp=sharing&ouid=101585303058316810430&rtpof=true&sd=true
 
-PDFLink:https://drive.google.com/file/d/1AAc2NzcjZpG9cdNPvOvcF2MmB4rqwrE2/view?usp=drivesdk
+PDFLink:https://drive.google.com/file/d/1BCLe7uOYA75vwZX8lJhPx-6P7iqh5Bfj/view?usp=sharing
